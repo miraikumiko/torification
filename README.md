@@ -8,5 +8,5 @@ TransPort 9040
 
 ## Usage
 ```
-torification start/stop/ip/help
+torification start | stop | ip | help
 ```
